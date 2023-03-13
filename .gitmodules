@@ -1,24 +1,24 @@
 [submodule "extras"]
 	path = extras
-	url = https://github.com/Ranger-Power/extras.git
+	url = https://github.com/olumpiaalexopoulou/extras.git
 	branch = master
 [submodule "quotes"]
 	path = quotes
-	url = https://github.com/Ranger-Power/_quotes.git
+	url = https://github.com/olumpiaalexopoulou/_quotes.git
 	branch = master
 [submodule "figures"]
 	path = figures
-	url = https://github.com/Ranger-Power/_gallery.git
+	url = https://github.com/olumpiaalexopoulou/_gallery.git
 [submodule "images"]
 	path = images
-	url = https://github.com/Ranger-Power/images.git
+	url = https://github.com/olumpiaalexopoulou/images.git
 [submodule "text"]
 	path = text
-	url = https://github.com/Ranger-Power/text.git
+	url = https://github.com/olumpiaalexopoulou/text.git
 	branch = main
 [submodule "bibliography"]
 	path = bibliography
-	url = https://github.com/Ranger-Power/bibliography.git
+	url = https://github.com/olumpiaalexopoulou/bibliography.git
 [submodule "Ranger-notes-kallipos"]
 	path = Ranger-notes-kallipos
-	url = https://github.com/Ranger-Power/Ranger-notes-kallipos.git
+	url = https://github.com/olumpiaalexopoulou/Ranger-notes-kallipos.git
