@@ -1,6 +1,6 @@
 function Image(images)
     if images.classes:find('media',1) then
-      local f = io.open("Ranger-notes-kallipos/" .. images.src, 'r')
+      local f = io.open("./Ranger-notes-kallipos/" .. images.src, 'r')
       local doc = pandoc.read(f:read('*a'))
       f:close()
       local caption = pandoc.utils.stringify(doc.meta.caption) 
